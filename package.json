@@ -9,7 +9,7 @@
     "eslint": "~6.8.0",
     "eslint-config-prettier": "~6.10.0",
     "prettier": "~1.19.1",
-    "react": "~0.0.0-experimental-8b155d261",
+    "react": "~0.14.0",
     "react-dom": "~0.0.0-experimental-8b155d261",
     "react-scripts": "3.4.0"
   },
